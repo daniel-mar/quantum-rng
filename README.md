@@ -5,7 +5,7 @@ Clone the repo
 While in the quantum-rng project folder create your virtual environment (.qenv is what I chose to name my env)
 - python3 -m venv .qenv
 
-Activate said enviroment
+Activate said environment
 ### Bash:
 - source .qenv/Scripts/activate
 
