@@ -1,4 +1,2 @@
-fastapi
-uvicorn
 qiskit
 qiskit_aer
