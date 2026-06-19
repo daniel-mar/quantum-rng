@@ -1,3 +1,5 @@
+NOTE: this page is not deployed because of memory limitations but is able to be cloned and overviewed easily.
+
 Clone the repo
 
 While in the quantum-rng project folder create your virtual environment (.qenv is what I chose to name my env)
