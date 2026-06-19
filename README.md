@@ -26,17 +26,18 @@ Was that instead of generating 4000 different values to prove that it is truly r
 - (50% using Quantum Superposition of is it a 0 or 1 when viewed to build the bits that form our digits).
 The goal there was to have statistically proven it is anywhere between 40% - 60%, mostly sitting between 50%.
 
-I then just generated a single value and stored it because the math supported that it infact was truly random.
-What makes it truly random? 
+I then just generated a single value and stored it because the math supported that it infact was random.
 
-Quantum Computing has us understand that it is either a 1 or a 0.
+Quantum Computing qubits has us understand that it is either a 1 or a 0.
 But where it can differ is that there can be photonic Qubits, where we can measure it differently and provide more areas for randomness.
 
-Such that you can view a photons polarity from different angles; left, right, diaganal left, diagonal right, etc etc. This could increase the randomness probability.
+Such that you can view a photons polarity from different angles; left, right, diaganal left, diagonal right, horizontal, vertical, etc. This could increase the randomness probability.\
+
 As the value is set once it is viewed, and changing how you view it can make it random.
 
 ### This is of interest because it makes me think of PQC and encryption applications and what is happening on a Quantum Computer as an encryption method.
 As a method of creating certificates and signatures can be truly unique and carries similar applications of Qubits being in a state of superposition.
+
 Where it hasn't been 'viewed' yet but shared between users, computers, or to create a session, and when it has been; it could be known to the users.
 
 This was of interest when I was researching PQC and so I wanted to view some of its basic applications that the more complex stuff may build upon.
