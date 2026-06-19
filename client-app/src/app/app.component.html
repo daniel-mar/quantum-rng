@@ -1,0 +1,18 @@
+<main class="container">
+  <h1>Quantum Random Generator</h1>
+  <button (click)="generate()" class="btn-generate">Get Random Number</button>
+  <button (click)="clearHistory()" class="btn-clear">Clear History</button>
+
+  <section class="history-section">
+    <ul class="history-list">
+      <h3>Randomly Generated Numbers:</h3>
+      @for (num of history; track $index) {
+        <li>
+          <app-number-card [number]="num"></app-number-card>
+        </li>
+      } @empty {
+        <li>No numbers generated yet.</li>
+      }
+    </ul>
+  </section>
+</main>

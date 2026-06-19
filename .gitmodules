@@ -1,0 +1,3 @@
+[submodule "quantum-rng-project"]
+	path = quantum-rng-project
+	url = https://github.com/daniel-mar/quantum-rng-project
